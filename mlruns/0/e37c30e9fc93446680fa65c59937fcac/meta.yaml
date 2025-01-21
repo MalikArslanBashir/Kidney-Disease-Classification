@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kidney-Disease-Classification/mlruns/0/e37c30e9fc93446680fa65c59937fcac/artifacts
+end_time: 1737465075787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e37c30e9fc93446680fa65c59937fcac
+run_name: skillful-crow-829
+run_uuid: e37c30e9fc93446680fa65c59937fcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737465060839
+status: 4
+tags: []
+user_id: Arslan

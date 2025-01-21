@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kidney-Disease-Classification/mlruns/0/6d077bd75bc043cba7840c244b0acb37/artifacts
+end_time: 1737478912646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d077bd75bc043cba7840c244b0acb37
+run_name: lyrical-mare-196
+run_uuid: 6d077bd75bc043cba7840c244b0acb37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737478896053
+status: 3
+tags: []
+user_id: Arslan

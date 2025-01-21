@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kidney-Disease-Classification/mlruns/0/87f8478e875d4aaa80b108ef79c117aa/artifacts
+end_time: 1737464292524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87f8478e875d4aaa80b108ef79c117aa
+run_name: invincible-dog-474
+run_uuid: 87f8478e875d4aaa80b108ef79c117aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737464276432
+status: 4
+tags: []
+user_id: Arslan

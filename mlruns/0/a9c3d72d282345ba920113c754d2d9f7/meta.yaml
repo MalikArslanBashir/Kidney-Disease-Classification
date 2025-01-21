@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kidney-Disease-Classification/mlruns/0/a9c3d72d282345ba920113c754d2d9f7/artifacts
+end_time: 1737463749778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9c3d72d282345ba920113c754d2d9f7
+run_name: bemused-swan-669
+run_uuid: a9c3d72d282345ba920113c754d2d9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737463730834
+status: 4
+tags: []
+user_id: Arslan
